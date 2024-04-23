@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Lobby Room.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Meeting Room.unity
+    guid: 96a8d9fb888610144a913ab00ef83210
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bf1856d7076496843858b764321f369a,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9db5f73a45f2e62448b82feb3f2aed18,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 1dd23e68c1428bd4c8332ef6585b4f30,
+      type: 2}
